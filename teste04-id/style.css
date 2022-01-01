@@ -1,0 +1,27 @@
+@charset "UTF-8"
+
+*{
+	height:100%;
+}
+body{
+	background-image:linear-gradient(to bottom, #E6BA7C, #E0D1BC);
+
+}
+
+h1{
+	color: #4A3313;/*#C78A34f9;*/
+	/*background-color:#4A3313;*/
+}
+
+#principal{
+	color: #E0D1BC;
+	background-color: #473A28;
+	text-align:center;
+	
+}
+
+p{
+	text-align: justify;
+}
+
+
